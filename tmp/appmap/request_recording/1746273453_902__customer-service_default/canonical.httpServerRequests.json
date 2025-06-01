@@ -1,0 +1,7 @@
+[
+  {
+    "route": "GET /{name}/{profiles:(?!.*\\b\\.(?:ya?ml|properties|json)\\b).*}",
+    "parameters": "()",
+    "status": 200
+  }
+]

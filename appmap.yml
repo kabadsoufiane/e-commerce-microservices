@@ -1,0 +1,7 @@
+language: "java"
+name: "e-commerce-microservices"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "com.soufiane.configserver"
+- path: "com.soufiane.discovery"
+- path: "com.soufiane.ecommerce"
